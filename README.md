@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  HTML,CSS
 - 📫 How to reach me : 
 - Linkeedin:https://www.linkedin.com/in/isabelly-n%C3%B3brega-056833200
-- Email academic : 202221151100@iesp.edu.br
+- Email academic : 2022211510100@iesp.edu.br
 - Email private: isabellynobregar@gmail.com
 
 <!---
