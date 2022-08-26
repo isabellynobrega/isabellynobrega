@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isabellynobrega
-- 👀 No momento estou interessada em Front-end
+- 👀 I'm currently interested in Front-end
 - 🌱 I’m currently learning  HTML,CSS
 - 📫 How to reach me : 
 - Linkeedin:https://www.linkedin.com/in/isabelly-n%C3%B3brega-rodrigues-056833200
