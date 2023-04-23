@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isabelly Nóbrega
 - 👀 I'm currently interested in Front-end, UX e UI
-- 🌱 I’m currently learning  HTML,CSS,Figma,Java,JavaScript,BD
+- 🌱 I’m currently learning  HTML, CSS,  Figma  , Java, JavaScript, BD
 - 📫 How to reach me : 
 - Email academic : 2022211510100@iesp.edu.br
 <!---
