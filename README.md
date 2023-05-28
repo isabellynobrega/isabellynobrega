@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Isabelly Nóbrega
-- 👀 I'm currently interested in Front-end, UX e UI
-- 🌱 I’m currently learning  HTML, CSS,  Figma  , Java, JavaScript, BD
-- 📫 How to reach me : 
-- Email academic : 2022211510100@iesp.edu.br
+- 👋 Hi, I’m Isabelly
+- 🌱 I’m currently learning  HTML, CSS, Figma, Java, JavaScript, BD
+
 <!---
 isabellynobrega/isabellynobrega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
